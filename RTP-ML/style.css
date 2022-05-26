@@ -1,0 +1,10 @@
+h1 ~ p {
+    font-weight: bold;
+    background-color: rgb(142, 116, 116);
+    color: #fff;
+    padding: .5em;
+}
+
+h2 ~ p {
+    background-color: unset;
+}
