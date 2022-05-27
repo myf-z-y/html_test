@@ -74,3 +74,11 @@ nav a {
     width: 70px;
     display: inline;
 }
+
+.notecard {
+    background-color:rgba(0, 133, 242, 0.1);
+    padding: 1rem 1rem 1rem 2rem;
+    border: #cdcdcd solid 1px;
+    border-left: #0085f2 solid 4px;
+    border-radius: 5px;
+}
